@@ -22,11 +22,12 @@
                                     <input type="password" name="password">
                                 </div>
                                 <div class="input-field">
-                                    <button style="margin-top: 1rem;" class="btn waves-effect waves-light pink" type="submit">Login</button>
+                                    <button style="margin-top: 1rem;" class="btn waves-effect waves-light pink"
+                                        type="submit">Login</button>
                                 </div>
-                                <p>Don't have an account? click <a href="{% url 'app:register' %}" style="margin-top: 1rem;" type="a">here</a> to register.</p>
-                                <p>Don't have time to sign up? Use the guest account credentials below.</p>
-                                <p class="chip">username: 'dc' password: '1'</p>
+                                <p>Don't have an account? click <a href="{% url 'app:register' %}"
+                                        style="margin-top: 1rem;" type="a">here</a> to register.</p>
+
                             </form>
                         </div>
                     </div>
@@ -38,4 +39,4 @@
 
     </section>
 </main>
-{% include 'footer.html' %} {% endblock content %}
+{% endblock content %}
