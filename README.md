@@ -17,9 +17,8 @@ Concepts covered in this app
 - `login/` Allows users to login to an account
 - `logout/` Allows users to logout and clear their session
 - `marketplace/` Listing of placements from various companies.
-- `marketplace/slug/` Detailed view for a placement within the marketplace.
 - `my-bids/` User scope bid summary for available placements.
-- `dashboard/` Basic analytics and animated charts for the database.
+
 
 # Setup
 
@@ -28,7 +27,7 @@ Concepts covered in this app
 
 **Running locally:**
 ```sh
-# Ffter activating your virtualenv
+# After activating your virtualenv
 python manage.py runserver
 ```
 
