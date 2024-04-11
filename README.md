@@ -35,34 +35,6 @@ python manage.py runserver
 # Tests
 - Tests performed on this project. What did you do? Which files were used? Was it successful?
 
-# Screenshots 
-
-**Home page**
-![home page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.14.19%20pm.jpg)
-
-**About page**
-![About page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.14.43%20pm.jpg)
-
-**Login page**
-![login page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.13.50%20pm.jpg)
-
-**Registration page**
-![registration page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.13.56%20pm.jpg)
-
-**Placements page**
-![placements page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.14.35%20pm.jpg)
-
-**Bid summary page**
-![bid summary page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.14.40%20pm.jpg)
-
-**Dashboard page**
-![Dashboard page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.14.47%20pm.jpg)
-
-**Bid submission page**
-![Bid submission page](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.20.31%20pm.jpg)
-
-**Responsive on small devices**
-![Responsive](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.20.45%20pm.jpg)
 
 # Contributors
 - Yiqing Zhao
