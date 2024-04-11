@@ -65,7 +65,11 @@ python manage.py runserver
 ![Responsive](https://github.com/danielc92/django-bidding-app/blob/master/screenshots/Screen%20Shot%202019-07-29%20at%202.20.45%20pm.jpg)
 
 # Contributors
-- Daniel Corcoran
+- Yiqing Zhao
+- Han Min
+- Varun Kabra
+- Ashay Panchal
+- Muqing Fan
 
 # Sources
 - [Materialize CSS](https://materializecss.com/)
